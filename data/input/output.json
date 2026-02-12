@@ -1,0 +1,183 @@
+{
+  "metadata": {
+    "job_id": "",
+    "status": "",
+    "started_at": "",
+    "completed_at": "",
+    "duration_minutes": 0.0,
+    "iterations_completed": 0,
+    "total_profiles_scanned": 0,
+    "total_candidates_found": 0,
+    "qualified_candidates": 0,
+    "candidates_returned": 0,
+    "average_fit_score": 0.0,
+    "search_queries_executed": [],
+    "errors": [],
+    "warnings": []
+  },
+  "candidates": [
+    {
+      "candidate_id": "",
+      "rank": 0,
+      "fit_score": 0.0,
+      "best_matching_position": "",
+      "profile": {
+        "name": "",
+        "title": "",
+        "company": "",
+        "industry": "",
+        "location": "",
+        "linkedin_url": "",
+        "profile_summary": "",
+        "years_of_experience": 0,
+        "education": ""
+      },
+      "skills_analysis": {
+        "confirmed_must_have_skills": [
+          {
+            "skill": "",
+            "evidence": "",
+            "confidence": ""
+          }
+        ],
+        "confirmed_nice_to_have_skills": [],
+        "missing_skills": [
+          {
+            "skill": "",
+            "assessment": ""
+          }
+        ],
+        "must_have_coverage": "",
+        "nice_to_have_coverage": ""
+      },
+      "openness_assessment": {
+        "is_likely_open": false,
+        "confidence": "",
+        "signals": [
+          {
+            "signal": "",
+            "type": "",
+            "strength": ""
+          }
+        ],
+        "risk_factors": []
+      },
+      "culture_fit_analysis": {
+        "positive_signals": [],
+        "potential_concerns": [],
+        "summary": ""
+      },
+      "key_posts": [
+        {
+          "post_id": "",
+          "content": "",
+          "date": "",
+          "likes": 0,
+          "comments": 0,
+          "url": "",
+          "relevance": "",
+          "what_it_tells_us": ""
+        }
+      ],
+      "scoring": {
+        "total_score": 0.0,
+        "breakdown": {
+          "skills_match": {
+            "score": 0.0,
+            "weight": 0.0,
+            "weighted": 0.0,
+            "explanation": ""
+          },
+          "experience_fit": {
+            "score": 0.0,
+            "weight": 0.0,
+            "weighted": 0.0,
+            "explanation": ""
+          },
+          "openness_to_move": {
+            "score": 0.0,
+            "weight": 0.0,
+            "weighted": 0.0,
+            "explanation": ""
+          },
+          "culture_fit": {
+            "score": 0.0,
+            "weight": 0.0,
+            "weighted": 0.0,
+            "explanation": ""
+          },
+          "engagement_potential": {
+            "score": 0.0,
+            "weight": 0.0,
+            "weighted": 0.0,
+            "explanation": ""
+          }
+        }
+      },
+      "engagement_messages": {
+        "connection_request": {
+          "type": "connection_request",
+          "body": "",
+          "character_count": 0,
+          "max_characters": 300,
+          "referenced_post_id": "",
+          "tone": ""
+        },
+        "inmail": {
+          "type": "inmail",
+          "subject": "",
+          "body": "",
+          "word_count": 0,
+          "referenced_post_id": "",
+          "tone": ""
+        },
+        "comment": {
+          "type": "comment",
+          "target_post_id": "",
+          "target_post_url": "",
+          "body": "",
+          "character_count": 0,
+          "referenced_post_id": "",
+          "tone": ""
+        }
+      },
+      "recommended_action": {
+        "primary": "",
+        "reason": "",
+        "sequence": [],
+        "timing": "",
+        "urgency": ""
+      }
+    }
+  ],
+  "summary": {
+    "total_candidates_returned": 0,
+    "score_distribution": {
+      "excellent_9_10": 0,
+      "very_good_8_9": 0,
+      "good_7_8": 0,
+      "acceptable_6_7": 0
+    },
+    "position_match_distribution": {},
+    "top_skills_found": [
+      {
+        "skill": "",
+        "count": 0,
+        "coverage": ""
+      }
+    ],
+    "openness_distribution": {
+      "explicitly_open": 0,
+      "likely_open": 0,
+      "maybe_open": 0,
+      "likely_not_open": 0
+    },
+    "location_distribution": {},
+    "recommended_next_steps": []
+  },
+  "output_files": {
+    "json": "",
+    "html": "",
+    "csv": ""
+  }
+}

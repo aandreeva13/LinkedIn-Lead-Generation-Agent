@@ -1,0 +1,108 @@
+{
+  "command": {
+    "action": "find_candidates",
+    "description": "",
+    "priority": "medium",
+    "language": "en"
+  },
+  "company_profile": {
+    "name": "",
+    "website": "",
+    "description": "",
+    "domains": [
+      {
+        "domain": "",
+        "sub_domains": []
+      }
+    ],
+    "employer_value_proposition": {
+      "culture": [],
+      "benefits": [],
+      "tech_stack": [],
+      "team_size": "",
+      "growth": ""
+    },
+    "company_size": "",
+    "location": ""
+  },
+  "open_positions": [
+    {
+      "position_id": "",
+      "title": "",
+      "department": "",
+      "seniority": "",
+      "employment_type": "",
+      "work_model": "",
+      "salary_range": {
+        "min": 0,
+        "max": 0,
+        "currency": "",
+        "period": "monthly",
+        "display_in_messages": false
+      },
+      "required_skills": {
+        "must_have": [],
+        "nice_to_have": []
+      },
+      "required_experience_years": {
+        "min": 0,
+        "max": 0
+      },
+      "description": "",
+      "key_responsibilities": [],
+      "what_makes_it_exciting": []
+    }
+  ],
+  "candidate_profile": {
+    "job_titles": [],
+    "seniority_levels": [],
+    "skills_to_search": [],
+    "industries_current_employer": [],
+    "locations": [],
+    "experience_years": {
+      "min": 0,
+      "max": 0
+    },
+    "education": {
+      "preferred_fields": [],
+      "min_degree": ""
+    },
+    "openness_indicators": [],
+    "skill_indicators": [],
+    "exclusions": {
+      "companies_to_skip": [],
+      "already_contacted": [],
+      "exclude_titles": []
+    }
+  },
+  "keywords": {
+    "primary": [],
+    "secondary": [],
+    "engagement_indicators": []
+  },
+  "settings": {
+    "max_candidates":[], 
+    "min_fit_score":[],
+    "max_iterations": [],
+    "max_profiles_per_search": 30,
+    "posts_per_profile": 10,
+    "rate_limiting": {
+      "delay_between_profiles_seconds": {
+        "min": 3,
+        "max": 8
+      },
+      "delay_between_searches_seconds": {
+        "min": 20,
+        "max": 45
+      },
+      "max_profiles_per_hour": 40
+    },
+    "output_formats": [
+      "json",
+      "html",
+      "csv"
+    ],
+    "message_tone": "friendly",
+    "message_language": "en"
+  }
+}
